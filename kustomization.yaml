@@ -1,0 +1,4 @@
+resources:
+- cm.yaml
+patchesStrategicMerge:
+- patch.yaml
